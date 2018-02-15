@@ -1,7 +1,7 @@
 public class MySet {
 
-  public static void main(String[] args) {
-    System.out.println("Hello");
+  public MySet() {
+    System.out.println("Instantiated empty set hello!");
   }
 
 }
